@@ -37,3 +37,5 @@ A big part of our approach is feedback & improvement. For the moment, there are 
 EMAIL: Use the email form on https://cti-cmm.org/
 
 GITHUB: Use the Discussion feature on Github and/or raise an Issue.
+
+Let us know what you think!
