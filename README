@@ -1,8 +1,8 @@
 # CTI-CMM
 
-After months of preparation and hard work, the first version of the CTI Capability Maturity Model (CTI-CMM) is live. The CTI-CMM model complements existing frameworks, offering a unique use case-driven approach that ties CTI practices directly to business and risk outcomes with a stakeholder-focused perspective. 
-As the first full release, it includes future plans for additions like the Fraud domain, metrics and measurement, and tools. Developed from the ground up by over 30 intelligence professionals with extensive experience in creating hundreds of cyber threat intelligence programs, this model is designed to benefit all organizations. It supports emerging CTI functions with practices at foundational, advanced, and leading levels, empowering even the most advanced programs. 
-Organizations are encouraged to start by preparing and assessing specific stakeholders, domains, and maturity levels to fully leverage the model's potential.
+After months of preparation and hard work, the first version of the CTI Capability Maturity Model (CTI-CMM) is live. This model complements existing frameworks by offering a unique, use case-driven approach that ties CTI practices directly to business and risk outcomes with a stakeholder-focused perspective. 
+
+As the first full release, it includes future plans for additions such as the Fraud domain, metrics and measurement, and tools. Developed from the ground up by over 30 intelligence professionals with extensive experience in creating hundreds of cyber threat intelligence programs, this model is designed to benefit all organizations. It supports emerging CTI functions with practices at foundational, advanced, and leading levels, empowering even the most advanced programs. Organizations are encouraged to start by preparing and assessing specific stakeholders, domains, and maturity levels to fully leverage the model's potential.
 
 ## Stakeholder First Approach
 
@@ -14,7 +14,7 @@ CTI-CMM aligns CTI practices with stakeholder maturity levels, bridging gaps and
 
 ## Collaborative Development
 
-Developed by a diverse volunteer group of industry experts from various sectors and geographies, the CTI-CMM leverages extensive experience in building and leading CTI programs at tactical and strategic levels.
+Developed by a diverse volunteer group of industry experts from various sectors and geographies, CTI-CMM leverages extensive experience in building and leading CTI programs at both tactical and strategic levels.
 
 ## Key Features
 
