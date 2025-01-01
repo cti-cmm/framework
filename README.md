@@ -1,6 +1,10 @@
 # CTI-CMM
 
-The second version of the CTI Capability Maturity Model (CTI-CMM) is now live. This model complements existing frameworks by offering a unique, use case-driven approach that ties CTI practices directly to business and risk outcomes with a stakeholder-focused perspective. 
+The second version of the CTI Capability Maturity Model (CTI-CMM) is now live. 
+
+Grab it here: https://github.com/cti-cmm/framework/blob/main/CTI-CMM%20book%20Version%201.1.pdf
+
+This model complements existing frameworks by offering a unique, use case-driven approach that ties CTI practices directly to business and risk outcomes with a stakeholder-focused perspective. 
 
 As the first full release, it includes future plans for additions such as the Fraud domain, metrics and measurement, and tools. Developed from the ground up by over 30 intelligence professionals with extensive experience in creating hundreds of cyber threat intelligence programs, this model is designed to benefit all organizations. It supports emerging CTI functions with practices at foundational, advanced, and leading levels, empowering even the most advanced programs. Organizations are encouraged to start by preparing and assessing specific stakeholders, domains, and maturity levels to fully leverage the model's potential.
 
