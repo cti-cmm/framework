@@ -4,7 +4,7 @@ The second version of the CTI Capability Maturity Model (CTI-CMM) is now live.
 
 Grab the lastest version here: 
 
-[https://github.com/cti-cmm/framework/blob/main/CTI-CMM%20book%20Version%201.1.pdf](https://cti-cmm.org/)
+https://cti-cmm.org/
 
 This model complements existing frameworks by offering a unique, use case-driven approach that ties CTI practices directly to business and risk outcomes with a stakeholder-focused perspective. 
 
